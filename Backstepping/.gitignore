@@ -1,0 +1,6 @@
+slprj/
+*.mlx
+*.slx*
+.DS_Store
+*.asv
+*.mat
